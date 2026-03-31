@@ -18,10 +18,7 @@
 
   <!-- Links -->
   <div style="margin-top: 40px;">
-    <a href="https://alexsandro-code-journey.lovable.app/" style="text-decoration: none; color: #00ffff; font-weight: bold;">🌐 Portfólio</a> |
-    <a href="https://github.com/alexsandro-tech" style="text-decoration: none; color: #00ffff; font-weight: bold;">🐙 GitHub</a> |
-    <a href="mailto:alexsandro.webdev@gmail.com" style="text-decoration: none; color: #00ffff; font-weight: bold;">📧 Email</a>
-  </div>
+ 
 
  <p style="margin-top: 40px; font-size: 0.9em; color: #888;">Feito com ☕ e curiosidade • Minas Gerais, Brasil</p>
 </div>
